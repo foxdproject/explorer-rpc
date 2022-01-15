@@ -37,7 +37,7 @@
     "express-session": "^1.17.0",
     "jstransformer-markdown-it": "^2.1.0",
     "lru-cache": "^5.1.1",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "meow": "^5.0.0",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
