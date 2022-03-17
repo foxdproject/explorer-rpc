@@ -47,7 +47,7 @@
     "redis": "^2.8.0",
     "request": "^2.88.0",
     "serve-favicon": "^2.5.0",
-    "simple-git": "^1.129.0"
+    "simple-git": "^3.3.0"
   },
   "devDependencies": {
     "less": "3.9.0",
